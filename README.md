@@ -36,13 +36,13 @@ banana
 45.2        23.999%
 
 Sample Output:
--17
-7
-SYNTAX ERROR
-SYNTAX ERROR
--11
-9
-879.35
-21.201
+-17   
+7    
+SYNTAX ERROR   
+SYNTAX ERROR    
+-11  
+9  
+879.35  
+21.201   
 
  	
