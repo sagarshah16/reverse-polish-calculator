@@ -19,20 +19,13 @@ The pow operator should raise the first operand to the power of the second opera
 There will be one or more whitespace characters between two numbers. There will be zero or more whitespace characters between a number and a symbol or two symbols.
 
 Sample Input:
-3 4 5.0 * -
-
-7
-
-4. * 8 30 + 5. 
-
-banana
-
-9 10 + 30 -
-
-4. 7 3-+ 2 -3+
-
-900 40.65-20+
-
+3 4 5.0 * -   
+7  
+4. * 8 30 + 5.    
+banana  
+9 10 + 30 -   
+4. 7 3-+ 2 -3+  
+900 40.65-20+   
 45.2        23.999%
 
 Sample Output:
