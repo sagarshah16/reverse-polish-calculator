@@ -20,12 +20,19 @@ There will be one or more whitespace characters between two numbers. There will 
 
 Sample Input:
 3 4 5.0 * -
+
 7
-4. * 8 30 +
+
+4. * 8 30 + 5. 
+
 banana
+
 9 10 + 30 -
+
 4. 7 3-+ 2 -3+
+
 900 40.65-20+
+
 45.2        23.999%
 
 Sample Output:
